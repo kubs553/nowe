@@ -1,0 +1,45 @@
+* {
+    font-family: Georgia;
+}
+
+a {
+    color: orange;
+    margin: 15px;
+}
+
+table {
+    width: 100%;
+    border: 2px solid green;
+}
+
+table.podzespoly td.ceny {
+    text-align: right; 
+}
+
+th {
+    background-color:  #63AC74;
+    color: white;
+}
+
+#logo, #menu {
+    font-size: 160%;
+    width: 50%;
+    text-align: right;
+    height: 140px;
+    background-color: #63AC74;
+    color: orange;
+}
+
+#glowny {
+    clear: both;
+    height: 500px;
+    background-color: #E3F6E7;
+    padding: 20px;
+}
+
+#blok1, #blok2, #blok3, #blok4 {
+    float: left;
+    width: 25%;
+    height: 150px;
+    background-color: #63AC74;    
+}
